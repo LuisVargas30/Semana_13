@@ -1,4 +1,4 @@
-# Cálculo del Total de una Compra (`Calculocompra.py`)
+# Cálculo del Total de una Compra
 
 **Estudiante:** Luis David Vargas Cornejo  
 **Materia:** Fundamentos de programación  
